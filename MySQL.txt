@@ -1,0 +1,15 @@
+My versions: LOL
+
+1) SELECT COUNT(countryCode) FROM city WHERE countrycode="USA";
+2) SELECT COUNT(Population) FROM country WHERE population="ARG";
+2) SELECT AVG(LifeExpectancy) FROM country WHERE code="ARG";
+3)
+
+
+Ben's versions: 
+1) SELECT COUNT(*) FROM city WHERE CountryCode= "USA";
+2) SELECT LifeExpectancy, Population FROM country WHERE Code= "ARG";
+
+
+
+ 
